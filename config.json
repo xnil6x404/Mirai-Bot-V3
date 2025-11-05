@@ -1,0 +1,36 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "updatePresence": true,
+        "listenTyping": true,
+        "selfListen": true,
+        "selfListenEvent": true,
+        "autoMarkDelivery": false,
+        "autoReconnect": true
+    },
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "FACEBOOK_ADMIN": "",
+    "BOTNAME": "Mirai-V3-Unofficial",
+    "PREFIX": "-",
+    "BOXADMIN": "6804616456270022",
+    "ADMINBOT": [],
+    "NDH": [
+        "502275138"
+    ],
+    "version": "3.0.0",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    }
+}
